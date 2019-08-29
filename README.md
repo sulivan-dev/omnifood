@@ -1,2 +1,2 @@
-# omnifood
+# Omnifood
 Website Omnifood
